@@ -84,7 +84,7 @@
           {
             "type": "git",
             "url": "https://github.com/cosmic-utils/forecast.git",
-            "commit": "8d4699506e968786859b54e0c18c096abfa7667a"
+            "commit": "ded6095b5cf33e1994eb42701411a5910965214e"
           },
           "cargo-sources.json"
         ]
