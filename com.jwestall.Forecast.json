@@ -1,7 +1,7 @@
 {
     "id": "com.jwestall.Forecast",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "24.08",
+    "runtime-version": "26.08",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
     "command": "cosmic-ext-forecast",
@@ -84,7 +84,7 @@
           {
             "type": "git",
             "url": "https://github.com/cosmic-utils/forecast.git",
-            "commit": "f4dca2317007bc3316b22456e36a76d50500ccc8"
+            "commit": "86b44fa1643e72e127933a8a7e9599b84d4c73b5"
           },
           "cargo-sources.json"
         ]
